@@ -1,3 +1,3 @@
 # Jian's User Page
 
-## favorite programming language - C++
+## favorite programming language - Python
