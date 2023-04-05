@@ -19,4 +19,6 @@ I have experience in programming with
 
 [<sub>Back to the top </sub>](https://github.com/RunpengJ/ucsd-cse110/blob/main/index.md#about-me)
 
-
+- [x] Join Slack
+- [x] Prof Greeting
+- [x] Survey
