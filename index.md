@@ -1,7 +1,7 @@
 # Jian's User Page
 ![Fisherman's Whalf](pictures/fisherman-whalf.JPG)
 ## About Me
-Hey! My name is Runpeng Jian. I am a first year transfer CS major in UCSD. I like doing sports like basketball and ping-pong in my spare time. I also like traveling. This is [one](pictures/beach.JPG) of my favorite photos.
+Hey! My name is Runpeng Jian. I am a first year transfer CS major in UCSD. I like doing sports like basketball and ping-pong in my spare time. I also like traveling. Here are some pictures of [San Francisco](sanfrancisco.md).
 
 ## Experience 
 I have experience in programming with 
