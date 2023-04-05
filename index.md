@@ -21,4 +21,4 @@ I have experience in programming with
 - [x] Prof Greeting
 - [x] Survey
 
-[<sub>Back to the top </sub>](https://github.com/RunpengJ/ucsd-cse110/blob/main/index.md#about-me)
+[<sub>Back to the top </sub>](https://runpengj.github.io/ucsd-cse110/#about-me)
